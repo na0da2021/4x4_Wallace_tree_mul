@@ -32,7 +32,7 @@ The 4x4 Wallace Tree Multiplier is a sophisticated hardware algorithm designed f
 ## Installation
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/na0da2021/4x4-Wallace-tree-mul-.git
+   git clone https://github.com/na0da2021/4x4_Wallace_tree_mul.git
 
 2. Navigate to the cloned directory and explore the Verilog source files.
 
